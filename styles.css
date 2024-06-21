@@ -43,6 +43,17 @@ button:hover {
     to { opacity: 1; }
 }
 
-.screenshot {
-    transition: transform 0.3s;
+.info-section {
+    margin-top: 20px;
+    animation: fadeIn 2s;
+}
+
+.scrollable-info {
+    max-height: 200px;
+    overflow-y: auto;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid green;
+    margin: 20px auto;
+    width: 80%;
 }
