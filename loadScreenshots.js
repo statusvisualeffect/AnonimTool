@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		"1.png",
 		"2.png",
 		"3.png",
+		"4.png"
 	] 
 
 	screenshotFiles.forEach(function (file) {
