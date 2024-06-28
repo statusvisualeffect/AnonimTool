@@ -3,9 +3,15 @@ document.getElementById("screenshotBtn").addEventListener("click", function () {
 })
 
 document.getElementById("downloadBtn").addEventListener("click", function () {
-	window.location.href = "Anonim.zip"
+	window.open("https://t.me/AnonimTSupport")
 })
 
 document.getElementById("downloadBtnTrmx").addEventListener("click", function () {
 	window.open("https://t.me/c/2192171543/68")
 })
+
+document
+	.getElementById("ourTelegramChannel")
+	.addEventListener("click", function () {
+		window.open("https://t.me/AnonimToolOfficial")
+	})
