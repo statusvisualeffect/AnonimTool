@@ -11,6 +11,12 @@ document.getElementById("downloadBtnTrmx").addEventListener("click", function ()
 })
 
 document
+	.getElementById("developerButton")
+	.addEventListener("click", function () {
+		window.open("https://t.me/AnonimTSupport")
+	})
+
+document
 	.getElementById("ourTelegramChannel")
 	.addEventListener("click", function () {
 		window.open("https://t.me/AnonimToolOfficial")
