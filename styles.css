@@ -4,7 +4,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     margin-top: 100px;
-    background-image: url('bg.gif'); /* Add your background GIF here */
+    /* background-image: url('bg.gif'); /* Add your background GIF here */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed; /* Ensure the background stays fixed during scrolling */
